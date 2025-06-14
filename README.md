@@ -1,1 +1,1 @@
-# bike-showroom
+The Bike Showroom Management System is a web-based application designed to streamline the operations of a motorcycle dealership. It enables efficient handling of inventory, customer inquiries, sales transactions, service bookings, and delivery tracking. The system supports real-time updates of available models, customer data management, and invoicing, ensuring smooth coordination between departments.  It provides an intuitive user interface for staff and management to monitor performance, generate reports, and enhance overall customer experience.
